@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**<h3>🌱Education</h3>**
+2021.03 ~ 숙명여자대학교 소프트웨어학부 컴퓨터과학전공 <br>
 
 **<h3>✨Experience</h3>**
 <table>
@@ -23,6 +25,11 @@ Here are some ideas to get you started:
   <td>역할</td>
 </th>
   <tr>
+    <td></td>
+    <td>숙명여자대학교 소프트웨어학부 학생회</td>
     <td>ALGOS</td>
+    <td>UMC</td>
+    <td>ICPC SINCHON</td>
+    <td>DACOS</td>
   </tr>
 </table>
