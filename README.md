@@ -111,5 +111,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-### ⚡Tech Stack 
+### ⚡Tech
 주로 SpringBoot에 집중해서 공부하고 프로젝트를 진행했습니다. 
+MySQL
+(추후 추가예정)
