@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 **<h3>✨Experience</h3>**
-<table?
+<table>
 <th>
   <td>ALGOS</td>
   <td>DACOS</td>
