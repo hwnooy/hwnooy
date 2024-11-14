@@ -78,14 +78,14 @@ Here are some ideas to get you started:
     <td></td>
     <td>UMC 5th, 6th</td>
     <td>2023/09~2024/08</td>
-    <td>Server(Spring Boot) Challenger, Server 파트장</td>
+    <td>Server Challenger(Spring Boot), <br> Server 파트장</td>
   </tr>
 
   <tr>
     <td></td>
     <td>ICPC SINCHON</td>
     <td>2023/11~2024/08</td>
-    <td>학생관리팀 운영진, 팀장</td>
+    <td>학생관리팀 운영진/팀장, 프로그래밍 관리팀</td>
     <td>https://icpc-sinchon.io/halloffame</td>
   </tr>
 
