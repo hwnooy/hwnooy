@@ -66,7 +66,7 @@ Here are some ideas to get you started:
     <td>소프트웨어학부 <br>집행부</td>
     <td>2021~2022</td>
     <td>집행부 부원</td>
-    <td>알고리즘 학회</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -74,6 +74,7 @@ Here are some ideas to get you started:
     <td>ALGOS</td>
     <td>2023~</td>
     <td>부원, 부회장</td>
+    <td>알고리즘 학회</td>
     
   </tr>
 
