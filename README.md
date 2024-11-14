@@ -1,5 +1,8 @@
-## Hi there 👋
+## 안녕하세요👋
+- 🔭 I’m currently studying ...
+- 🌱 
 
+- 
 <!--
 **hwnooy/hwnooy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,7 +38,7 @@ Here are some ideas to get you started:
     <td></td>
     <td>ALGOS</td>
     <td>2023~</td>
-    <td2>2023 : 일반부원 <br> 2024 : 부회장</td>
+    <td2>부원 -> 부회장</td>
     
   </tr>
 
@@ -56,5 +59,14 @@ Here are some ideas to get you started:
   <tr>
     <td></td>
     <td>DACOS</td>
+    <td>2024</td>
+    <td>딥러닝 머신러닝 기초, 심화 스터디</td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td>2024 Winter MadCamp</td>
+    <td>2024/12/26~2025/01/26</td>
+    <td></td>
   </tr>
 </table>
