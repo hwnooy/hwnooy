@@ -1,6 +1,6 @@
 ## Hello, I am (  ) 👋
-- 🔭 I’m currently studying ...
-- 🌱 
+🔭 I’m currently studying ... <br>
+🌱 
 
 - 
 <!--
@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**<h3>🌱Education</h3>**
+**### 🌱Education**
 2021.03 ~ 숙명여자대학교 소프트웨어학부 컴퓨터과학전공 <br>
 
-**<h3>✨Experience</h3>**
+**### ✨Experience**
 <table>
 <th>
   <td>단체</td>
