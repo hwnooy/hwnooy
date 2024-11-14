@@ -59,13 +59,14 @@ Here are some ideas to get you started:
   <td>단체</td>
   <td>활동기간</td>
   <td>역할</td>
-  <td>LINK</td>
+  <td>비고</td>
 </th>
   <tr>
     <td></td>
     <td>소프트웨어학부 <br>집행부</td>
     <td>2021~2022</td>
     <td>집행부 부원</td>
+    <td>알고리즘 학회</td>
   </tr>
 
   <tr>
@@ -96,6 +97,7 @@ Here are some ideas to get you started:
     <td>DACOS</td>
     <td>2024</td>
     <td>딥러닝 머신러닝 기초, 심화 스터디</td>
+    <td>데이터분석학회</td>
   </tr>
 
   <tr>
