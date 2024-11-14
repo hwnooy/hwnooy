@@ -1,5 +1,5 @@
-## Hello, I am (  ) 👋
-안녕하세요, 
+## Hello, I am  👋
+
 <!-- 📫 contact : heeju_2002@naver.com -->
 
 <!--
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### 🌱Education
 **2021.03 ~ 숙명여자대학교 소프트웨어학부 컴퓨터과학전공** <br>
 
-### Project
+### 🔭Project
 <table>
   <th>
     <td>프로젝트명</td>
@@ -57,6 +57,7 @@ Here are some ideas to get you started:
   <td>단체</td>
   <td>활동기간</td>
   <td>역할</td>
+  <td>LINK</td>
 </th>
   <tr>
     <td></td>
@@ -85,6 +86,7 @@ Here are some ideas to get you started:
     <td>ICPC SINCHON</td>
     <td>2023/11~2024/08</td>
     <td>학생관리팀 운영진, 팀장</td>
+    <td>https://icpc-sinchon.io/halloffame</td>
   </tr>
 
   <tr>
