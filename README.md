@@ -26,10 +26,27 @@ Here are some ideas to get you started:
 </th>
   <tr>
     <td></td>
-    <td>숙명여자대학교 소프트웨어학부 학생회</td>
+    <td>소프트웨어학부 집행부</td>
+    <td>2021~2022</td>
+    <td>집행부</td>
+  </tr>
+
+  <tr>
     <td>ALGOS</td>
+    <td>2023~</td>
+    <td row=2>2023 : 일반부원</td>
+    <td>2024 : 부회장</td>
+  </tr>
+
+  <tr>
     <td>UMC</td>
+  </tr>
+
+  <tr>
     <td>ICPC SINCHON</td>
+  </tr>
+
+  <tr>
     <td>DACOS</td>
   </tr>
 </table>
