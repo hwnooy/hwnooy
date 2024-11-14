@@ -1,4 +1,4 @@
-## 안녕하세요👋
+## Hello, I am (  ) 👋
 - 🔭 I’m currently studying ...
 - 🌱 
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
     <td></td>
     <td>ALGOS</td>
     <td>2023~</td>
-    <td2>부원 -> 부회장</td>
+    <td>부원 -> 부회장</td>
     
   </tr>
 
