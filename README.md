@@ -1,11 +1,4 @@
 <!--
-## Hello 👋
-안녕하세요, 목표달성 의지가 누구보다 강한 백엔드 개발 지망생입니다. <br>
-다양한 경험을 해보고, 이제는 더 깊게 성장하고자 노력하고 있습니다. <br>
-
-<!-- 📫 contact : heeju_2002@naver.com -->
-
-<!--
 **hwnooy/hwnooy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,6 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- 📫 contact : heeju_2002@naver.com -->
+
+<!--
+## Hello 👋
+안녕하세요, 목표달성 의지가 누구보다 강한 백엔드 개발 지망생입니다. <br>
+다양한 경험을 해보고, 이제는 더 깊게 성장하고자 노력하고 있습니다. <br>
+
+
+
+
 ### 🌱Education
 **2021.03 ~ 숙명여자대학교 소프트웨어학부 컴퓨터과학전공** <br>
 
