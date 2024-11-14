@@ -1,8 +1,7 @@
 ## Hello, I am (  ) 👋
-🔭 I’m currently studying ... <br>
-🌱 
+안녕하세요, 
+<!-- 📫 contact : heeju_2002@naver.com -->
 
-- 
 <!--
 **hwnooy/hwnooy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,10 +16,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**### 🌱Education**
-2021.03 ~ 숙명여자대학교 소프트웨어학부 컴퓨터과학전공 <br>
+### 🌱Education
+**2021.03 ~ 숙명여자대학교 소프트웨어학부 컴퓨터과학전공** <br>
 
-**### ✨Experience**
+### Project
+<table>
+  <th>
+    <td>프로젝트명</td>
+    <td>프로젝트 기간</td>
+    <td>역할</td>
+  </th>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+</table>
+
+
+### ✨Experience
 <table>
 <th>
   <td>단체</td>
@@ -46,14 +77,14 @@ Here are some ideas to get you started:
     <td></td>
     <td>UMC 5th, 6th</td>
     <td>2023/09~2024/08</td>
-    <td>Server(Spring Boot) Challenger -> Server 파트장</td>
+    <td>Server(Spring Boot) Challenger, Server 파트장</td>
   </tr>
 
   <tr>
     <td></td>
     <td>ICPC SINCHON</td>
     <td>2023/11~2024/08</td>
-    <td>학생관리팀 운영진 -> 학생관리팀 팀장</td>
+    <td>학생관리팀 운영진, 팀장</td>
   </tr>
 
   <tr>
@@ -69,4 +100,11 @@ Here are some ideas to get you started:
     <td>2024/12/26~2025/01/26</td>
     <td></td>
   </tr>
+</table>
+
+### ⚡Tech Stack 
+<table>
+  <th>
+    <td></td></td>
+  </th>
 </table>
