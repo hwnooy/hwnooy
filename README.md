@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 **<h3>✨Experience</h3>**
 <table>
 <th>
-  <td>ALGOS</td>
-  <td>DACOS</td>
-  <td>ICPC SINCHON</td>
+  <td>단체</td>
+  <td>활동기간</td>
+  <td>역할</td>
 </th>
+  <tr>
+    <td>ALGOS</td>
+  </tr>
 </table>
