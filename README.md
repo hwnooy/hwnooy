@@ -32,21 +32,25 @@ Here are some ideas to get you started:
   </tr>
 
   <tr>
+    <td></td>
     <td>ALGOS</td>
     <td>2023~</td>
-    <td row=2>2023 : 일반부원</td>
+    <td rowspan=2>2023 : 일반부원</td>
     <td>2024 : 부회장</td>
   </tr>
 
   <tr>
+    <td></td>
     <td>UMC</td>
   </tr>
 
   <tr>
+    <td></td>
     <td>ICPC SINCHON</td>
   </tr>
 
   <tr>
+    <td></td>
     <td>DACOS</td>
   </tr>
 </table>
