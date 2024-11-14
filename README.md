@@ -29,15 +29,17 @@ Here are some ideas to get you started:
 
   <tr>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>PETWIF</td>
+    <td>2024/07~2024/08</td>
+    <td>SpringBoot:자체로그인/소셜로그인, <br> 백엔드 팀장</td></td>
     <td></td>
   </tr>
 
   <tr>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>BOBMATE</td>
+    <td>2024/01~2024/02</td>
+    <td>컨텐츠 추천 API 담당</td></td>
     <td></td>
   </tr>
 
@@ -61,16 +63,16 @@ Here are some ideas to get you started:
 </th>
   <tr>
     <td></td>
-    <td>소프트웨어학부 집행부</td>
+    <td>소프트웨어학부 <br>집행부</td>
     <td>2021~2022</td>
-    <td>집행부</td>
+    <td>집행부 부원</td>
   </tr>
 
   <tr>
     <td></td>
     <td>ALGOS</td>
     <td>2023~</td>
-    <td>부원 -> 부회장</td>
+    <td>부원, 부회장</td>
     
   </tr>
 
@@ -85,7 +87,7 @@ Here are some ideas to get you started:
     <td></td>
     <td>ICPC SINCHON</td>
     <td>2023/11~2024/08</td>
-    <td>학생관리팀 운영진/팀장, 프로그래밍 관리팀</td>
+    <td>학생관리팀 운영진/팀장, <br>프로그래밍 관리팀</td>
     <td>https://icpc-sinchon.io/halloffame</td>
   </tr>
 
