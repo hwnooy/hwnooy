@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <table>
 <th>
   <td>단체</td>
-  <td>활동기간</td>
+  <td colspan=2>활동기간</td>
   <td>역할</td>
 </th>
   <tr>
@@ -35,18 +35,21 @@ Here are some ideas to get you started:
     <td></td>
     <td>ALGOS</td>
     <td>2023~</td>
-    <td rowspan=2>2023 : 일반부원</td>
-    <td>2024 : 부회장</td>
+    <td2>2023 : 일반부원 <br> 2024 : 부회장</td>
+    
   </tr>
 
   <tr>
     <td></td>
-    <td>UMC</td>
+    <td>UMC 5th, 6th</td>
+    <td>Server(Spring Boot) Challenger -> Server 파트장</td>
   </tr>
 
   <tr>
     <td></td>
     <td>ICPC SINCHON</td>
+    <td>2023/11~2024/08</td>
+    <td>학생관리팀 운영진 -> 학생관리팀 팀장</td>
   </tr>
 
   <tr>
