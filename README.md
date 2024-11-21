@@ -30,29 +30,23 @@ Here are some ideas to get you started:
     <td>프로젝트명</td>
     <td>프로젝트 기간</td>
     <td>역할</td>
+    <td>기술 스택</td>
   </th>
 
   <tr>
     <td></td>
     <td>PETWIF</td>
     <td>2024/07~2024/08</td>
-    <td>SpringBoot:자체로그인/소셜로그인, <br>회원/펫 정보 관리,</br><br> 백엔드 팀장</td></td>
-    <td></td>
+    <td>자체로그인/소셜로그인, <br>회원/펫 정보 관리,</br> <br> 백엔드 팀장</td></td>
+    <td>SpringBoot</td>
   </tr>
 
   <tr>
     <td></td>
     <td>BOBMATE</td>
     <td>2024/01~2024/02</td>
-    <td>컨텐츠 추천 API 담당</td></td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>컨텐츠 추천 API 담당</td>
+    <td>SpringBoot</td>
   </tr>
   
 </table>
