@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 -->
 📫 contact : heeju_2002@naver.com
 
-
-## Hello 👋
 안녕하세요, 목표달성 의지가 누구보다 강한 백엔드 개발 지망생입니다. <br>
 다양한 경험을 해보고, 이제는 더 깊게 성장하고자 노력하고 있습니다. <br>
 
