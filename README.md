@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 </th>
   <tr>
     <td></td>
-    <td>소프트웨어학부 <br>집행부</br></td>
+    <td width=10>소프트웨어학부 <br>집행부</br></td>
     <td>2021~2022</td>
     <td>집행부 부원</td>
     <td></td>
@@ -79,6 +79,7 @@ Here are some ideas to get you started:
     <td>UMC 5th, 6th</td>
     <td>2023/09~2024/08</td>
     <td>Server Challenger(Spring Boot), <br> Server 파트장</td>
+    <td>IT 연합 시이드 프로젝트 동아리</td>
   </tr>
 
   <tr>
