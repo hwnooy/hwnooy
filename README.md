@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- 📫 contact : heeju_2002@naver.com -->
+📫 contact : heeju_2002@naver.com
 
-<!--
+
 ## Hello 👋
 안녕하세요, 목표달성 의지가 누구보다 강한 백엔드 개발 지망생입니다. <br>
 다양한 경험을 해보고, 이제는 더 깊게 성장하고자 노력하고 있습니다. <br>
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
     <td></td>
     <td>PETWIF</td>
     <td>2024/07~2024/08</td>
-    <td>SpringBoot:자체로그인/소셜로그인, <br> 백엔드 팀장</td></td>
+    <td>SpringBoot:자체로그인/소셜로그인, <br>회원/펫 정보 관리,</br><br> 백엔드 팀장</td></td>
     <td></td>
   </tr>
 
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
   <tr>
     <td></td>
     <td>ALGOS</td>
-    <td>2023~</td>
+    <td>2023~2024</td>
     <td>부원, 부회장</td>
     <td>알고리즘 학회</td>
     
@@ -108,16 +108,20 @@ Here are some ideas to get you started:
     <td>데이터분석학회</td>
   </tr>
 
+<!--
   <tr>
     <td></td>
     <td>2024 Winter MadCamp</td>
     <td>2024/12/26~2025/01/26</td>
     <td></td>
   </tr>
+  -->
 </table>
 
+<!--
 ### ⚡Tech
 주로 SpringBoot에 집중해서 공부하고 프로젝트를 진행했습니다. 
 MySQL
 (추후 추가예정)
 -->
+
