@@ -37,7 +37,7 @@ Here are some ideas to get you started:
     <td></td>
     <td>PETWIF</td>
     <td>2024/07~2024/08</td>
-    <td>자체로그인/소셜로그인, <br>회원/펫 정보 관리,</br> <br> 백엔드 팀장</td></td>
+    <td>자체로그인/소셜로그인, <br>회원/펫 정보 관리,</br> <br> 백엔드 팀장</br></td>
     <td>SpringBoot</td>
   </tr>
 
