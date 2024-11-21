@@ -16,13 +16,10 @@ Here are some ideas to get you started:
 📫 contact : heeju_2002@naver.com
 
 안녕하세요, 목표달성 의지가 누구보다 강한 백엔드 개발 지망생입니다. <br>
-다양한 경험을 해보고, 이제는 더 깊게 성장하고자 노력하고 있습니다. <br>
-
-
-
+다양한 경험을 해보았고, 이제는 더 깊게 성장하고자 노력하고 있습니다. <br>
 
 ### 🌱Education
-**2021.03 ~ 숙명여자대학교 소프트웨어학부 컴퓨터과학전공** <br>
+**2021.03 ~ 숙명여자대학교 소프트웨어학부 컴퓨터과학전공 심화전공, 빅데이터전공 복수전공** <br>
 
 ### 🔭Project
 <table>
@@ -98,6 +95,14 @@ Here are some ideas to get you started:
     <td>2024</td>
     <td>딥러닝 머신러닝 기초, 심화 스터디</td>
     <td>데이터분석학회</td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td>Codeit boost SMWU</td>
+    <td>2024/09~2025/02</td>
+    <td>프론트엔드 (javascript, React) </td>
+    <td>부트캠프 연합동아리, https://www.instagram.com/p/C29GELmLUrj/?img_index=1 </td>
   </tr>
 
 <!--
