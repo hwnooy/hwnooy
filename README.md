@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 </th>
   <tr>
     <td></td>
-    <td width=60>소프트웨어학부 <br>집행부</br></td>
+    <td width=60px>소프트웨어학부 <br>집행부</br></td>
     <td>2021~2022</td>
     <td>집행부 부원</td>
     <td></td>
