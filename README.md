@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 📫 contact : heeju_2002@naver.com
 
 안녕하세요, 목표달성 의지가 누구보다 강한 백엔드 개발 지망생입니다. <br>
@@ -115,7 +115,7 @@ Here are some ideas to get you started:
   </tr>
   -->
 </table>
-
+-->
 <!--
 ### ⚡Tech
 주로 SpringBoot에 집중해서 공부하고 프로젝트를 진행했습니다. 
