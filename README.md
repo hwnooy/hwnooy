@@ -30,7 +30,25 @@ Here are some ideas to get you started:
     <td>기술 스택</td>
   </th>
 
+  
   <tr>
+      <td></td>
+      <td>1d1s 프로젝트</td>
+      <td>2025/03~2025/06</td>
+      <td>자체로그인/소셜로그인, <br>회원/펫 정보 관리,</br> <br> 백엔드 팀장</br></td>
+      <td>SpringBoot</td>
+    </tr>
+  <tr>
+
+   <tr>
+      <td></td>
+      <td>졸업프로젝트</td>
+      <td>2025/03~2025/09</td>
+      <td>자체로그인/소셜로그인, <br>회원/펫 정보 관리,</br> <br> 백엔드 팀장</br></td>
+      <td>SpringBoot</td>
+    </tr>
+  <tr>
+
     <td></td>
     <td>PETWIF</td>
     <td>2024/07~2024/08</td>
@@ -42,7 +60,7 @@ Here are some ideas to get you started:
     <td></td>
     <td>BOBMATE</td>
     <td>2024/01~2024/02</td>
-    <td>컨텐츠 추천 API 담당</td>
+    <td>컨텐츠 추천/평가 API 담당</td>
     <td>SpringBoot</td>
   </tr>
   
@@ -106,16 +124,15 @@ Here are some ideas to get you started:
     <td>부트캠프 연합동아리, https://www.instagram.com/p/C29GELmLUrj/?img_index=1 </td>
   </tr>
 
-<!--
+
   <tr>
     <td></td>
     <td>2024 Winter MadCamp</td>
     <td>2024/12/26~2025/01/26</td>
     <td></td>
   </tr>
-  -->
-</table>
--->
+  </table>
+  
 <!--
 ### ⚡Tech
 주로 SpringBoot에 집중해서 공부하고 프로젝트를 진행했습니다. 
