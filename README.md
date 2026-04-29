@@ -27,23 +27,25 @@ Here are some ideas to get you started:
     <td>프로젝트 기간</td>
     <td>역할</td>
     <td>기술 스택</td>
+    <td>비고</td>
   </th>
 
   
   <tr>
       <td></td>
       <td>1d1s 프로젝트</td>
-      <td>2025/03~2025/06</td>
-      <td>자체로그인/소셜로그인, <br>회원/펫 정보 관리,</br> <br> 백엔드 팀장</br></td>
+      <td>2025/03~</td>
+      <td>Diary, Alarm 도메인 개발</td>
       <td>SpringBoot</td>
+      <td>https://1day1streak.com/</td>
   </tr>
 
    <tr>
       <td></td>
-      <td>졸업프로젝트</td>
-      <td>2025/03~2025/09</td>
-      <td>자체로그인/소셜로그인, <br>회원/펫 정보 관리,</br> <br> 백엔드 팀장</br></td>
-      <td>SpringBoot</td>
+      <td>COBEE & G.PS</td>
+      <td>2025/03~</td>
+      <td> 알림/구인글/지원관리/댓글 도메인 프론트,백엔드 개발 </td>
+      <td>SpringBoot, TypeScript, React-native, React</td>
     </tr>
   
   <tr>
@@ -127,7 +129,7 @@ Here are some ideas to get you started:
     <td></td>
     <td>2024 Winter MadCamp</td>
     <td>2024/12/26~2025/01/26</td>
-    <td></td>
+    <td>4개의 작업물 개발, 정리 중</td>
   </tr>
   </table>
   
