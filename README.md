@@ -11,12 +11,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...  -->
 
 📫 contact : heeju_2002@naver.com
 
 안녕하세요, 목표달성 의지가 누구보다 강한 백엔드 개발 지망생입니다. <br>
-다양한 경험을 해보았고, 이제는 더 깊게 성장하고자 노력하고 있습니다. <br>
 
 ### 🌱Education
 **2021.03 ~ 숙명여자대학교 소프트웨어학부 컴퓨터과학전공 심화전공, 빅데이터전공 복수전공** <br>
@@ -37,8 +36,7 @@ Here are some ideas to get you started:
       <td>2025/03~2025/06</td>
       <td>자체로그인/소셜로그인, <br>회원/펫 정보 관리,</br> <br> 백엔드 팀장</br></td>
       <td>SpringBoot</td>
-    </tr>
-  <tr>
+  </tr>
 
    <tr>
       <td></td>
@@ -47,8 +45,8 @@ Here are some ideas to get you started:
       <td>자체로그인/소셜로그인, <br>회원/펫 정보 관리,</br> <br> 백엔드 팀장</br></td>
       <td>SpringBoot</td>
     </tr>
+  
   <tr>
-
     <td></td>
     <td>PETWIF</td>
     <td>2024/07~2024/08</td>
