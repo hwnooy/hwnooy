@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   
   <tr>
       <td></td>
-      <td>1d1s 프로젝트</td>
+      <td>1D1S</td>
       <td>2025/03~</td>
       <td>Diary, Alarm 도메인 개발</td>
       <td>SpringBoot</td>
@@ -46,6 +46,7 @@ Here are some ideas to get you started:
       <td>2025/03~</td>
       <td> 알림/구인글/지원관리/댓글 도메인 프론트,백엔드 개발 </td>
       <td>SpringBoot, TypeScript, React-native, React</td>
+     <td></td>
     </tr>
   
   <tr>
@@ -54,6 +55,7 @@ Here are some ideas to get you started:
     <td>2024/07~2024/08</td>
     <td>자체로그인/소셜로그인, <br>회원/펫 정보 관리,</br> <br> 백엔드 팀장</br></td>
     <td>SpringBoot</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -62,6 +64,7 @@ Here are some ideas to get you started:
     <td>2024/01~2024/02</td>
     <td>컨텐츠 추천/평가 API 담당</td>
     <td>SpringBoot</td>
+    <td></td>
   </tr>
   
 </table>
