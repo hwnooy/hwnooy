@@ -103,7 +103,7 @@ Here are some ideas to get you started:
     <td>ICPC SINCHON</td>
     <td>2023/11~2024/08</td>
     <td>학생관리팀 운영진/팀장, <br>프로그래밍 관리팀</td>
-    <td>https://icpc-sinchon.io/halloffame</td>
+    <td>https://icpc-sinchon.io/halloffame/2024-Summer</td>
   </tr>
 
   <tr>
