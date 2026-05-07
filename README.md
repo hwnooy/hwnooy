@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 📫 contact : heeju_2002@naver.com
 
-안녕하세요, 포기하지 않는 성장하는 백엔드 개발자입니다.<br>
+안녕하세요.<br>
 
 ### 🌱Education
 **2021.03 ~ 숙명여자대학교 소프트웨어학부 컴퓨터과학전공 심화전공, 빅데이터전공 복수전공** <br>
