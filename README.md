@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  -->
 
-📫 contact : heeju_2002@naver.com
+📫 contact :
 
 안녕하세요.<br>
 
