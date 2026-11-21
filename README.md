@@ -133,6 +133,7 @@ Here are some ideas to get you started:
     <td>2024 Winter MadCamp</td>
     <td>2024/12/26~2025/01/26</td>
     <td>4개의 작업물 개발, 정리 중</td>
+    <td></td>
   </tr>
   </table>
   
