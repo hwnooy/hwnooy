@@ -174,3 +174,12 @@ Computer Science (Advanced Major) and Big Data (Double Major)
 | **DACOS** | 2024 | Participated in introductory and advanced study groups on machine learning and deep learning. | Data analytics club |
 | **Codeit Boost SMWU** | Sep 2024 – Feb 2025 | Studied frontend development with JavaScript and React. | [University bootcamp club](https://www.instagram.com/p/C29GELmLUrj/?img_index=1) |
 | **2024 Winter MadCamp** | Dec 26, 2024 – Jan 26, 2025 | Built four projects and am documenting them. | |
+
+### 🛠️ Technical Skills
+
+- **Backend:** Java, Spring Boot, Spring Data JPA, Spring Security, REST APIs
+- **Databases:** PostgreSQL, MySQL, SQL
+- **Frontend & Mobile:** JavaScript, React, React Native
+- **Authentication & Real-Time Communication:** OAuth 2.0, JWT, WebSocket, STOMP
+- **Tools:** Git, Docker, Flyway
+- **Additional Languages:** Python, C, SQL 
