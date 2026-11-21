@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...  -->
+- ⚡ Fun fact: ... 
 
 📫 contact :
 
@@ -142,5 +142,35 @@ Here are some ideas to get you started:
 주로 SpringBoot에 집중해서 공부하고 프로젝트를 진행했습니다. 
 MySQL
 (추후 추가예정)
--->
+--> -->
 
+
+Hi, I’m Judy Jang!
+
+📫 **Contact:** 
+
+### 🌱 Education
+
+**Sookmyung Women’s University** · March 2021 – February 2027  
+Computer Science (Advanced Major) and Big Data (Double Major)
+
+### 🔭 Projects
+
+| Project | Period | Role | Tech Stack | Link |
+| --- | --- | --- | --- | --- |
+| **1D1S** | Mar 2025 – Present | Developed diary and notification features. | Spring Boot | [Live site](https://1day1streak.com/) |
+| **COBEE & G.PS** | Mar 2025 – Present | Developed frontend and backend features for notifications, recruitment posts, application management, and comments. | Spring Boot, TypeScript, React Native, React | |
+| **PETWIF** | Jul 2024 – Aug 2024 | Led the backend team and implemented email or username-based login, social login, and user and pet profile management. | Spring Boot | |
+| **BOBMATE** | Jan 2024 – Feb 2024 | Developed APIs for content recommendations and ratings. | Spring Boot | |
+
+### ✨ Activities & Leadership
+
+| Organization | Period | Role / Contribution | Details |
+| --- | --- | --- | --- |
+| **School of Software Student Committee** | 2021–2022 | Executive committee member | |
+| **ALGOS** | 2023–2024 | Member and vice president | Algorithms club |
+| **UMC (5th & 6th Cohorts)** | Sep 2023 – Aug 2024 | Server Track Participant (Spring Boot) and Server Track Lead | Interuniversity software project club |
+| **ICPC SINCHON** | Nov 2023 – Aug 2024 | Served as an organizer and team lead on the Student Management Team and contributed to the Programming Management Team. | [Summer 2024 Hall of Fame](https://icpc-sinchon.io/halloffame/2024-Summer) |
+| **DACOS** | 2024 | Participated in introductory and advanced study groups on machine learning and deep learning. | Data analytics club |
+| **Codeit Boost SMWU** | Sep 2024 – Feb 2025 | Studied frontend development with JavaScript and React. | [University bootcamp club](https://www.instagram.com/p/C29GELmLUrj/?img_index=1) |
+| **2024 Winter MadCamp** | Dec 26, 2024 – Jan 26, 2025 | Built four projects and am documenting them. | |
